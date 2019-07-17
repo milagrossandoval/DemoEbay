@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BuscadorSuite" parallel="false">
+	<test name="BuscadorTest">
+		<parameter name="navegador" value="chrome"/>
+		<parameter name="remoto" value="0"/>
+		<classes>
+			<class name="pe.com.test.demoEbay.BuscadorTest" />
+		</classes>
+	</test>
+</suite> 

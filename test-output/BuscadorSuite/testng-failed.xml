@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BuscadorSuite]">
+  <parameter name="navegador" value="chrome"/>
+  <parameter name="remoto" value="0"/>
+  <test name="BuscadorTest">
+    <parameter name="navegador" value="chrome"/>
+    <parameter name="remoto" value="0"/>
+    <classes>
+      <class name="pe.com.test.demoEbay.BuscadorTest"/>
+    </classes>
+  </test> <!-- BuscadorTest -->
+</suite> <!-- Failed suite [BuscadorSuite] -->

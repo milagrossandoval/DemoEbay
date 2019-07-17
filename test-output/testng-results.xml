@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BuscadorSuite" duration-ms="44790" started-at="2019-07-17T05:59:35Z" finished-at="2019-07-17T06:00:20Z">
+    <groups>
+    </groups>
+    <test name="BuscadorTest" duration-ms="44790" started-at="2019-07-17T05:59:35Z" finished-at="2019-07-17T06:00:20Z">
+      <class name="pe.com.test.demoEbay.BuscadorTest">
+        <test-method status="PASS" signature="inicioClase(java.lang.String, int)[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@63355449]" test-instance-name="" name="inicioClase" is-config="true" duration-ms="4215" started-at="2019-07-17T00:59:35Z" finished-at="2019-07-17T00:59:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicioClase -->
+        <test-method status="PASS" signature="buscarMarca()[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@63355449]" test-instance-name="" name="buscarMarca" duration-ms="39292" started-at="2019-07-17T00:59:39Z" finished-at="2019-07-17T01:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buscarMarca -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@63355449]" test-instance-name="" name="tearDown" is-config="true" duration-ms="1269" started-at="2019-07-17T01:00:19Z" finished-at="2019-07-17T01:00:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pe.com.test.demoEbay.BuscadorTest -->
+    </test> <!-- BuscadorTest -->
+  </suite> <!-- BuscadorSuite -->
+</testng-results>
