@@ -1,17 +1,12 @@
 package pe.com.test.demoEbay.page;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-
-import javax.swing.plaf.basic.BasicSliderUI.ActionScroller;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-
 import pe.com.test.demoEbay.BuscadorTest;
 import pe.com.test.demoEbay.driver.demoDriver;
 

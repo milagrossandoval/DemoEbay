@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="BuscadorSuite" duration-ms="44790" started-at="2019-07-17T05:59:35Z" finished-at="2019-07-17T06:00:20Z">
+  <suite name="BuscadorSuite" duration-ms="54899" started-at="2019-07-18T04:29:26Z" finished-at="2019-07-18T04:30:21Z">
     <groups>
     </groups>
-    <test name="BuscadorTest" duration-ms="44790" started-at="2019-07-17T05:59:35Z" finished-at="2019-07-17T06:00:20Z">
+    <test name="BuscadorTest" duration-ms="54899" started-at="2019-07-18T04:29:26Z" finished-at="2019-07-18T04:30:21Z">
       <class name="pe.com.test.demoEbay.BuscadorTest">
-        <test-method status="PASS" signature="inicioClase(java.lang.String, int)[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@63355449]" test-instance-name="" name="inicioClase" is-config="true" duration-ms="4215" started-at="2019-07-17T00:59:35Z" finished-at="2019-07-17T00:59:39Z">
+        <test-method status="PASS" signature="inicioClase(java.lang.String, int)[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@5b275dab]" test-instance-name="" name="inicioClase" is-config="true" duration-ms="8258" started-at="2019-07-17T23:29:26Z" finished-at="2019-07-17T23:29:35Z">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- inicioClase -->
-        <test-method status="PASS" signature="buscarMarca()[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@63355449]" test-instance-name="" name="buscarMarca" duration-ms="39292" started-at="2019-07-17T00:59:39Z" finished-at="2019-07-17T01:00:19Z">
+        <test-method status="PASS" signature="buscarMarca()[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@5b275dab]" test-instance-name="" name="buscarMarca" duration-ms="44152" started-at="2019-07-17T23:29:35Z" finished-at="2019-07-17T23:30:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buscarMarca -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@63355449]" test-instance-name="" name="tearDown" is-config="true" duration-ms="1269" started-at="2019-07-17T01:00:19Z" finished-at="2019-07-17T01:00:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pe.com.test.demoEbay.BuscadorTest@5b275dab]" test-instance-name="" name="tearDown" is-config="true" duration-ms="2475" started-at="2019-07-17T23:30:19Z" finished-at="2019-07-17T23:30:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

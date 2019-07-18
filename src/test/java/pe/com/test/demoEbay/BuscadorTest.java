@@ -5,14 +5,15 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
 import pe.com.test.demoEbay.page.BuscadorPage;
+/*
+ Script Demo Ebay
+ Autor: Milagros Sandoval*/
 
 @Test
 public class BuscadorTest {
@@ -47,7 +48,7 @@ public class BuscadorTest {
 						+ listaValorObtenido.get(i).precio);
 			}
 
-			System.out.println("Valor Esperado");
+			//System.out.println("Valor Esperado");
 			List<String> valorEsperado = new ArrayList<>();
 			for (int i = 0; i < 5; i++) {
 				valorEsperado.add(listaValorEsperado.get(i).nombre);
